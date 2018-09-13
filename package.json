@@ -1,0 +1,24 @@
+{
+  "name": "simondice",
+  "version": "1.0.0",
+  "description": "esto es una prueba",
+  "main": "index.js",
+  "scripts": {
+    "test": "tst pruebas"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mrearte/SimonDice.git"
+  },
+  "keywords": [
+    "key",
+    "simon",
+    "juego"
+  ],
+  "author": "Matias",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mrearte/SimonDice/issues"
+  },
+  "homepage": "https://github.com/Mrearte/SimonDice#readme"
+}
